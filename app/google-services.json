@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "400654748836",
+    "firebase_url": "https://mlkitpaid.firebaseio.com",
+    "project_id": "mlkitpaid",
+    "storage_bucket": "mlkitpaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400654748836:android:502ea4e701ed1819",
+        "android_client_info": {
+          "package_name": "inducesmile.com.mlkitpaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400654748836-qkk74ulse44bqripkj689grmivofad9u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "400654748836-qkk74ulse44bqripkj689grmivofad9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDG3oreVT9HjJ_kFzAvr6jHFjJl_Mfi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
